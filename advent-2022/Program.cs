@@ -10,8 +10,8 @@ namespace advent_2022
     {
         static void Main()
         {
-            Day4 day4 = new Day4();
-            day4.Run();
+            Day5 day5 = new Day5();
+            day5.Run();
         }
     }
 }
